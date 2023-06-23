@@ -1,0 +1,28 @@
+{
+    "mail": "botadd05@yahoo.com",
+    "pass": "Botline12345",
+    "token": "",
+    "settings": {
+        "protect": {},
+        "namelock": {},
+        "linkprotect": {},
+        "denyinvite": {},
+        "autopurge": true,
+        "allowban": true,
+        "sqmode": true,
+        "rname": "",
+        "sname": ""
+    },
+    "sname": "default",
+    "stats": {
+        "owners": [],
+        "admins": [],
+        "staffs": [],
+        "bots": [],
+        "antijs": [],
+        "banned": []
+    },
+    "autojoin": true,
+    "rname": ""
+    
+}
